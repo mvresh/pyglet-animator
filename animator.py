@@ -1,6 +1,7 @@
 import pyglet
 
-image_frames=("an1.jpg","an2.jpg","an3.jpg","an4.jpg","an5.jpg","an6.jpg")
+image_frames=("an1.jpg","an2.jpg","an3.jpg","an4.jpg","an5.jpg","an6.jpg") # any number of sequential images in the same folder
+                                                                           #where your python program exists
 
 
 #about to create list of above images
